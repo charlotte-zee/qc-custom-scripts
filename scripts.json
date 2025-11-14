@@ -1,37 +1,37 @@
 [
     {
         "name": "Legendary Capitol Script V2",
-        "file": "7_Legendary Capitol ScriptV2.jb",
+        "file": "7_Legendary_Capitol_ScriptV2.jb",
         "description": "Legendary Capitol mission automation."
     },
     {
         "name": "Legendary District Union",
-        "file": "7_Legendary Distric Union.jb",
+        "file": "7_Legendary_District_Union.jb",
         "description": "Legendary District Union mission automation."
     },
     {
         "name": "Legendary Roosevelt Island",
-        "file": "7_Legendary Roosevelt Island.jb",
+        "file": "7_Legendary_Roosevelt_Island.jb",
         "description": "Roosevelt Island legendary script."
     },
     {
         "name": "Campus Patrol",
-        "file": "8_Campus_Patrol (1).jb",
+        "file": "8_Campus_Patrol_1.jb",
         "description": "Campus patrol looping automation."
     },
     {
         "name": "Bank HeadQuarters Heroic",
-        "file": "9_BankHeadQuarters Heroic.jb",
+        "file": "9_BankHeadQuarters_Heroic.jb",
         "description": "Heroic difficulty Bank HQ script."
     },
     {
         "name": "Grand Washington Heroic",
-        "file": "9_GrandWashington Heroic.jb",
+        "file": "9_GrandWashington_Heroic.jb",
         "description": "Heroic Grand Washington script."
     },
     {
         "name": "Lincoln Memorial",
-        "file": "9_LinconMemorial.jb",
+        "file": "9_Lincoln_Memorial.jb",
         "description": "Lincoln Memorial AI automation."
     }
 ]
