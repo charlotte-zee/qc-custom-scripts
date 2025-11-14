@@ -33,5 +33,10 @@
         "name": "Lincoln Memorial Heroic",
         "file": "9_Lincoln_Memorial_Heroic.jb",
         "description": "Lincoln Memorial AI automation."
+    },
+    {
+        "name": "Legendary Tidal Basin.jb",
+        "file": "Legendary_Tidal_Basin.jb",
+        "description": "Lincoln Memorial AI automation."
     }
 ]
