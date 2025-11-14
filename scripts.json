@@ -5,13 +5,13 @@
     "description": "Legendary Capitol mission automation."
   },
   {
-    "name": "Legendary Distric Union",
+    "name": "Legendary District Union",
     "file": "7_Legendary Distric Union.jb",
     "description": "Legendary District Union mission automation."
   },
   {
     "name": "Legendary Roosevelt Island",
-    "file": "7_Legendary Roosevelt IsIand.jb",
+    "file": "7_Legendary Roosevelt Island.jb",
     "description": "Roosevelt Island legendary script."
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "name": "Grand Washington Heroic",
-    "file": "9_Grandwashington Heroic.jb",
+    "file": "9_GrandWashington Heroic.jb",
     "description": "Heroic Grand Washington script."
   },
   {
