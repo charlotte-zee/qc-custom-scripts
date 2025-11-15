@@ -48,5 +48,10 @@
     "name": "test 2 script",
     "file": "test2.jb",
     "description": "testing (Uploaded by Kiwi)"
+  },
+  {
+    "name": "Test 3 Script",
+    "file": "Test_3.jb",
+    "description": "Test script 3 (Uploaded by Kiwi)"
   }
 ]
