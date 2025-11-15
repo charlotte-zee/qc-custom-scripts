@@ -83,5 +83,10 @@
     "name": "Test 9",
     "file": "test_9.jb",
     "description": "test (Uploaded by Kiwi)"
+  },
+  {
+    "name": "Test last",
+    "file": "test_Fianl.jb",
+    "description": "last (Uploaded by Kiwi)"
   }
 ]
