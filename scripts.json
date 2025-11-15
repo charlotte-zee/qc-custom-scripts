@@ -78,5 +78,10 @@
     "name": "test 8",
     "file": "test8.jb",
     "description": "trsdt (Uploaded by Kiwi)"
+  },
+  {
+    "name": "Test 9",
+    "file": "test_9.jb",
+    "description": "test (Uploaded by Kiwi)"
   }
 ]
