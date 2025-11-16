@@ -38,6 +38,10 @@
     "name": "Legendary Tidal Basin",
     "file": "Legendary_Tidal_Basin.jb",
     "description": "Lincoln Memorial AI automation."
+  },
+  {
+    "name": "The END",
+    "file": "THE_END.jb",
+    "description": "ending  (Uploaded by Kiwi)"
   }
-
 ]
